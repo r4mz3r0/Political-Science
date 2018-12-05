@@ -2,8 +2,8 @@
 ## About 
 This repository includes group projects, lecture notes, and coursework. The skills and knowledge I acquired from taking political psychology are exhbited in this repository.  
 ## Fall 2018 
-# Instructor 
-Professor Elaine Denny, Ph.D. <br> 
+# Professor 
+Elaine Denny, Ph.D. <br> 
 edenny@ucmerced.edu <br> 
 http://faculty.ucmerced.edu/edenny/ <br> 
 ## Syllabus 
