@@ -1,4 +1,6 @@
 # Political Psychology 
+## About 
+This repository includes group projects, lecture Notes, and coursework. The skills and knowledge acquired from taking political psychology are exhbited in this repository.  
 ## Fall 2018 
 Professor Elaine Denny <br> 
 ## Syllabus 
@@ -11,5 +13,4 @@ In order to understand the key concepts in political psychology we will read res
 3.  A capacity to utilize contemporary social science research methods to conduct rigorous research on political phenomena.
 4.  Effective written communication skills, especially the ability to convey complex concepts and information in a clear and concise manner.
 5.  An ability to apply abstract theory and research methods to understand contemporary political events and public policies.
-## About 
-Group Projects, Lecture Notes, and Coursework. Skills and knowledge acquired from taking Political Pyschology. 
+
