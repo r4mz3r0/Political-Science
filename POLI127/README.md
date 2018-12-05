@@ -1,7 +1,8 @@
 # Race, Gender, and Politics
 ## About
-This repository includes 
+This repository includes group projects, lecture notes, and coursework. The skills and knowledge I acquired from taking Race, Gender, and Politics are exhbited in this repository.
 ## Fall 2018 
+## Instructor 
 Professor Josh Franco, Ph.D.<br> 
 jfranco@ucmerced.edu <br> 
 http://www.joshfranco.com/ 
