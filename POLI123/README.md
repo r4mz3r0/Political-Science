@@ -3,6 +3,7 @@
 This repository includes group projects, lecture notes, and coursework. The skills and knowledge I acquired from taking political psychology are exhbited in this repository.  
 ## Fall 2018 
 Professor Elaine Denny <br> 
+edenny@ucmerced.edu <br> 
 ## Syllabus 
 This course provides an introduction to the field of political psychology.  Political psychologists have applied insights of psychological science to a host of research questions relating to mass political behavior.  In this course we will sample from across this broad range of topics in order to discover what ordinary people think and feel about politics. <br>
 Questions we will explore include: How do citizens organize their thoughts on politics?  How do emotions influence political decision-making?  What considerations go in to citizens’ racial attitudes and tolerance judgments?  Do the media exert a strong influence on how citizens think about politics? <br> 
