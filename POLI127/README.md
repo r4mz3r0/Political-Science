@@ -2,7 +2,8 @@
 ## About
 This repository includes 
 ## Fall 2018 
-Professor Josh Franco, Ph.D.
+Professor Josh Franco, Ph.D.<br> 
+jfranco@ucmerced.edu <br> 
 http://www.joshfranco.com/ 
 ## Syllabus
 1. Scaffolding the student's knowledge, abilities, and skills related to contemporary and historical identity politics in the U.S., with a focus on the importance of race and gender in political representation, attitude formation, and civil rights.This CLO advances PLO #1CLO 
