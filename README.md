@@ -8,3 +8,8 @@ The following exhibits the skills I developed while taking upper division Politi
 
 # Skills 
 Python Jupyter, HTML, JavaScript,Data Analysis,Statistical Analysis, Collaboration, Microsoft Office, Public Speaking, Debating
+
+### PLO #1:
+An understanding of the processes, theories, and empirical regularities of political
+institutions and political behavior in the student's chosen emphasis area: American politics,
+comparative politics, or international relations.
