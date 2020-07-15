@@ -7,4 +7,4 @@ The following exhibits the skills I developed while taking upper division Politi
 ## POLI 003 : Introduction to Comparative Politics
 
 # Skills 
-Python Jupyter, Data Analysis, Collaboration, Microsoft Office, Public Speaking, Debating
+Python Jupyter, Data Analysis,Statistical Analysis, Collaboration, Microsoft Office, Public Speaking, Debating
