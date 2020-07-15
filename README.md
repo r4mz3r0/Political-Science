@@ -5,3 +5,6 @@ The following exhibits the skills I developed while taking upper division Politi
 ## POLI 101 : The Presidency
 ## POLI 140 : Transitions to Democracy 
 ## POLI 003 : Introduction to Comparative Politics
+
+# Skills 
+Python Jupyter, Data Analysis, Collaboration, Microsoft Office, Public Speaking, Debating
