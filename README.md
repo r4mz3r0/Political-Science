@@ -1,5 +1,5 @@
 # Political-Science
-The following exhibits the skills I developed from taking upper division Political Science courses. 
+The following exhibits the skills I developed while taking upper division Political Science courses. 
 ## POLI 123 : Political Psychology 
 ## POLI 127 : Sex, Gender, and Politics
 ## POLI 101 : The Presidency
